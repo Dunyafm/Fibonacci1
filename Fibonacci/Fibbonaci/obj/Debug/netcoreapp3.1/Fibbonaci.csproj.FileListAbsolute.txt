@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\obj\Debug\netcoreapp3.1\Fibbonaci.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\obj\Debug\netcoreapp3.1\Fibbonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\obj\Debug\netcoreapp3.1\Fibbonaci.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\obj\Debug\netcoreapp3.1\Fibbonaci.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\obj\Debug\netcoreapp3.1\Fibbonaci.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\bin\Debug\netcoreapp3.1\Fibbonaci.exe
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\bin\Debug\netcoreapp3.1\Fibbonaci.deps.json
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\bin\Debug\netcoreapp3.1\Fibbonaci.runtimeconfig.json
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\bin\Debug\netcoreapp3.1\Fibbonaci.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\bin\Debug\netcoreapp3.1\Fibbonaci.dll
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\bin\Debug\netcoreapp3.1\Fibbonaci.pdb
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\obj\Debug\netcoreapp3.1\Fibbonaci.dll
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\obj\Debug\netcoreapp3.1\Fibbonaci.pdb
+C:\Users\ASUS\Desktop\Fibonacci\Fibbonaci\obj\Debug\netcoreapp3.1\Fibbonaci.genruntimeconfig.cache
